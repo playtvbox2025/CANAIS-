@@ -716,19 +716,19 @@ https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x13Zoz1.png" group-title="24hrs | FILMES",Dark Flix
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8?ManoTV
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="24hrs | Desenhos",South Park: Coleção Cartman
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="24hrs | DESENHOS",South Park: Coleção Cartman
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65df71008b24c80008f04281/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&amp;
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="24hrs | Desenhos",South Park: Coleção Kenny
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="24hrs | DESENHOS",South Park: Coleção Kenny
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65df704366eec8000898e32f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&amp;
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="24hrs | Desenhos",South Park: Coleção kyle
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="24hrs | DESENHOS",South Park: Coleção kyle
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65df713dec9fda0008b7a81d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&amp;
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="24hrs | Desenhos",South Park: Coleção Stan 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="24hrs | DESENHOS",South Park: Coleção Stan 
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65df70b0f7f0af0008c3b316/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&amp;
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="24hrs | Desenhos",Comedy Central South Park
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="24hrs | DESENHOS",Comedy Central South Park
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 ############################################################################ CANAIS RUNTIME & PLUTO FILMES
@@ -877,94 +877,94 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62052d3b4eeb740007fbe125/colorLogoPNG.png" group-title="24hrs | SÉRIES",O Homem que veio do Céu
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62052d3b4eeb740007fbe125/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-############################################################################ Canais | AnimesS
+############################################################################ Canais | ANIMESS
 
-#EXTINF:-1 tvg-logo="https://imgur.com/hQA9rUw.png" group-title="Canais | AnimesS",Jojo's Bizarre adventure
+#EXTINF:-1 tvg-logo="https://imgur.com/hQA9rUw.png" group-title="Canais | ANIMESS",Jojo's Bizarre adventure
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c7982f6838ee00085f0d24/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&amp;
 
-#EXTINF:-1 tvg-id="Pluto TV Animes ação" tvg-logo="https://images.pluto.tv/channels/604b79c558393100078faeef/solidLogoPNG.png" group-title="Canais | AnimesS",Pluto TV Animes Ação
+#EXTINF:-1 tvg-id="Pluto TV Animes ação" tvg-logo="https://images.pluto.tv/channels/604b79c558393100078faeef/solidLogoPNG.png" group-title="Canais | ANIMESS",Pluto TV Animes Ação
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
 
-#EXTINF:-1 tvg-id="Pluto TV Animes" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG-1599153408949.png" group-title="Canais | AnimesS",Pluto TV Animes
+#EXTINF:-1 tvg-id="Pluto TV Animes" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG-1599153408949.png" group-title="Canais | ANIMESS",Pluto TV Animes
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png" group-title="Canais | AnimesS",One Piece
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png" group-title="Canais | ANIMESS",One Piece
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="Canais | AnimesS",Naruto
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="Canais | ANIMESS",Naruto
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64c92f965580090008084968/colorLogoPNG.png" group-title="Canais | AnimesS",Naruto Shippuden
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64c92f965580090008084968/colorLogoPNG.png" group-title="Canais | ANIMESS",Naruto Shippuden
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64c92f965580090008084968/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656f389c3944b60008e5bdab/colorLogoPNG.png" group-title="Canais | AnimesS",Boruto: Naruto Next Generations
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656f389c3944b60008e5bdab/colorLogoPNG.png" group-title="Canais | ANIMESS",Boruto: Naruto Next Generations
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656f389c3944b60008e5bdab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&amp;
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65d9167818036500080e8780/colorLogoPNG.png" group-title="Canais | AnimesS",Hunter x Hunter
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65d9167818036500080e8780/colorLogoPNG.png" group-title="Canais | ANIMESS",Hunter x Hunter
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65d9167818036500080e8780/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png" group-title="Canais | AnimesS",Beyblade
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png" group-title="Canais | ANIMESS",Beyblade
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Athwean.png" group-title="Canais | AnimesS",Tokusato
+#EXTINF:-1 tvg-logo="https://imgur.com/Athwean.png" group-title="Canais | ANIMESS",Tokusato
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=967d46f0-96bd-11eb-b493-ab25b5b88dc0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8619d5a-ac5a-4804-8d5e-84812ad7686b&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/solidLogoPNG.png" group-title="Canais | AnimesS",Death Note
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/solidLogoPNG.png" group-title="Canais | ANIMESS",Death Note
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/605cc4de7ff3c50007be0f65/colorLogoPNG.png" group-title="Canais | AnimesS & GEEK",Pluto TV Geek e Tech
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/605cc4de7ff3c50007be0f65/colorLogoPNG.png" group-title="Canais | ANIMESS",Pluto TV Geek e Tech
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7ff3c50007be0f65/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/62e01661a3e6270007f4ec9e/colorLogoPNG.png" group-title="Canais | AnimesS & GEEK",Pluto TV Gaming por Ubisoft
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/62e01661a3e6270007f4ec9e/colorLogoPNG.png" group-title="Canais | ANIMESS",Pluto TV Gaming por Ubisoft
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64c815e8a1c6130008fef928livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xFbshql.png" group-title="Canais | AnimesS",Loading...TV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xFbshql.png" group-title="Canais | ANIMESS",Loading...TV 
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C5nMqAf.png" group-title="Canais | AnimesS",WORDING TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C5nMqAf.png" group-title="Canais | ANIMESS",WORDING TV
 https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1264551258.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NMMtJ8F.png" group-title="Canais | AnimesS",Geekdot​
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NMMtJ8F.png" group-title="Canais | ANIMESS",Geekdot​
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2HaiovZ.png" group-title="Canais | AnimesS",Hallo Animes HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2HaiovZ.png" group-title="Canais | ANIMESS",Hallo Animes HD
 
 
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDUmm0A6dqsiWdKknHSQQEIoGVOaps2gJVBi8htVGvjySl-LeNj_lqW8I&s" group-title="Canais | AnimesS",Kanade Brasil
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDUmm0A6dqsiWdKknHSQQEIoGVOaps2gJVBi8htVGvjySl-LeNj_lqW8I&s" group-title="Canais | ANIMESS",Kanade Brasil
 https://backend.energeek.cl/webtv/kanadebr/index.m3u8?token=deM0kanADeweB
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="24hrs | Desenhos",Dragon Ball 24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="24hrs | DESENHOS",Dragon Ball 24
 http://24hrs.homelinux.com:8080/24H-dragon.ball/video.m3u8?
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="24hrs | Desenhos",Dragon Ball Z 24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="24hrs | DESENHOS",Dragon Ball Z 24
 http://24hrs.homelinux.com:8080/24H-dragon.ball.z/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="24hrs | Desenhos",Dragon Ball Z Kai 24h
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="24hrs | DESENHOS",Dragon Ball Z Kai 24h
 http://24hrs.homelinux.com:8080/24H-dragon.ball.z.kai/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="24hrs | Desenhos",Dragon Ball Gt 24h
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="24hrs | DESENHOS",Dragon Ball Gt 24h
 http://24hrs.homelinux.com:8080/24H-dragon.ball.gt/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="24hrs | Desenhos",Dragon Ball Super 24h
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="24hrs | DESENHOS",Dragon Ball Super 24h
 http://24hrs.homelinux.com:8080/24H-dragon.ball.super/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="24hrs | Desenhos",Os Cavaleiros Dos Zodiacos 24h
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="24hrs | DESENHOS",Os Cavaleiros Dos Zodiacos 24h
 http://24hrs.homelinux.com:8080/24H-cavaleiros/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="24hrs | Desenhos",Naruto 24h
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="24hrs | DESENHOS",Naruto 24h
 http://24hrs.homelinux.com:8080/24H-naruto.txt/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="24hrs | Desenhos",Naruto Shippuden 24h
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="24hrs | DESENHOS",Naruto Shippuden 24h
 http://24hrs.homelinux.com:8080/24H-narutoshippuden.txt/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="24hrs | Desenhos",Boruto 24h
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="24hrs | DESENHOS",Boruto 24h
 http://24hrs.homelinux.com:8080/24H-boruto/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="24hrs | Desenhos",Hantaro 24h
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="24hrs | DESENHOS",Hantaro 24h
 http://24hrs.homelinux.com:8080/24H-hantaro/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="24hrs | Desenhos",Jiraya 24h
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="24hrs | DESENHOS",Jiraya 24h
 http://24hrs.homelinux.com:8080/24H-Jiraya/video.m3u8?
 
 
@@ -1062,112 +1062,112 @@ http://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 
 ################################################################################# Canais INFANTIL 24h
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | Desenhos",Chapolin Colorado 
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | DESENHOS",Chapolin Colorado 
 http://15.235.9.200:14844/
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | Desenhos",Chapolin Colorado 24h
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | DESENHOS",Chapolin Colorado 24h
 http://24hrs.homelinux.com:8080/24H-chapolin1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24hrs | Desenhos",Chaves 24h
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24hrs | DESENHOS",Chaves 24h
 http://24hrs.homelinux.com:8080/24H-chaves-a-serie/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24hrs | Desenhos",Chaves Animação
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24hrs | DESENHOS",Chaves Animação
 http://24hrs.homelinux.com:8080/24H-chavesdesenho/video.m3u8?
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | Desenhos",Masha e o Urso 24h
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | DESENHOS",Masha e o Urso 24h
 http://24hrs.homelinux.com:8080/24H-Masha.e.o.Urso.S01eS02eS03/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | Desenhos",Bob Esponja 24h
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | DESENHOS",Bob Esponja 24h
 http://24hrs.homelinux.com:8080/24H-bobesponja/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | Desenhos",Bob Esponja 2
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | DESENHOS",Bob Esponja 2
 http://15.235.9.200:14823/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24hrs | Desenhos",Pokemon 24h
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24hrs | DESENHOS",Pokemon 24h
 http://24hrs.homelinux.com:8080/24H-pokemon/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24hrs | Desenhos",Digimon 24h
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24hrs | DESENHOS",Digimon 24h
 http://24hrs.homelinux.com:8080/24H-digimon/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | Desenhos",Ben 10 2005 24h
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | DESENHOS",Ben 10 2005 24h
 http://24hrs.homelinux.com:8080/24H-Ben.10.2005.S01.S02.S03.S04/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | Desenhos",Ben 10 
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | DESENHOS",Ben 10 
 http://15.235.9.200:14819/
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | Desenhos",Poderoso Chefinho 24h
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | DESENHOS",Poderoso Chefinho 24h
 http://24hrs.homelinux.com:8080/24H-O.Poderoso.Chefinho.S01-S02/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | Desenhos",Mickey e Donald 24h
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | DESENHOS",Mickey e Donald 24h
 http://24hrs.homelinux.com:8080/24H-Mickey.e.Donald.S01/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | Desenhos",Corrida Maluca 24h
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | DESENHOS",Corrida Maluca 24h
 http://24hrs.homelinux.com:8080/24H-Corrida.Maluca/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | Desenhos",Super Mario Bross 24h
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | DESENHOS",Super Mario Bross 24h
 http://24hrs.homelinux.com:8080/24H-supermario/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | Desenhos",Patolino 24h
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | DESENHOS",Patolino 24h
 http://24hrs.homelinux.com:8080/24H-patolino/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | Desenhos",Aladdin 24h
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | DESENHOS",Aladdin 24h
 http://24hrs.homelinux.com:8080/24H-aladdin/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | Desenhos",Hantaro 24h
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | DESENHOS",Hantaro 24h
 http://24hrs.homelinux.com:8080/24H-hantaro/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | Desenhos",Lady Bug
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | DESENHOS",Lady Bug
 http://24hrs.homelinux.com:8080/24H-ladybug/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | Desenhos",As três espiã 
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | DESENHOS",As três espiã 
 http://24hrs.homelinux.com:8080/24H-tresespias/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | Desenhos",Luluzinha 24h
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | DESENHOS",Luluzinha 24h
 http://24hrs.homelinux.com:8080/24H-luluzinha/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | Desenhos",Jaspion 24h
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | DESENHOS",Jaspion 24h
 http://24hrs.homelinux.com:8080/24H-jaspion/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | Desenhos",Thundercats 24h
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | DESENHOS",Thundercats 24h
 http://24hrs.homelinux.com:8080/24H-thundercats/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | Desenhos",Mundo De Boby 24h
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | DESENHOS",Mundo De Boby 24h
 http://24hrs.homelinux.com:8080/24H-ofantasticomundodeboby/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | Desenhos",Tom & Jerry 24h
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | DESENHOS",Tom & Jerry 24h
 http://24hrs.homelinux.com:8080/24H-tom-e-jerry/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | Desenhos",Scoobdoo 24h
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | DESENHOS",Scoobdoo 24h
 http://24hrs.homelinux.com:8080/24H-scoobdoo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | Desenhos",Popeye 24h
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | DESENHOS",Popeye 24h
 http://24hrs.homelinux.com:8080/24H-Popeye.S01/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | Desenhos",Os Simpsons 24h
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | DESENHOS",Os Simpsons 24h
 http://24hrs.homelinux.com:8080/24H-ossimpsons/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | Desenhos",Futurama
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | DESENHOS",Futurama
 http://24hrs.homelinux.com:8080/24H-futurama/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | Desenhos",South Park
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | DESENHOS",South Park
 http://24hrs.homelinux.com:8080/24H-southpark/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | Desenhos",Show da Luna 24h
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | DESENHOS",Show da Luna 24h
 http://24hrs.homelinux.com:8080/24H-showdaluna/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | Desenhos",PicaPau 24h
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | DESENHOS",PicaPau 24h
 http://24hrs.homelinux.com:8080/24H-picapau/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | Desenhos",Cavaleiros Zodiaco 24h
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | DESENHOS",Cavaleiros Zodiaco 24h
 http://24hrs.homelinux.com:8080/24H-cavaleiros/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | Desenhos",Os Flistony 24h
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | DESENHOS",Os Flistony 24h
 http://24hrs.homelinux.com:8080/24H-osflistony/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | Desenhos",Avatar Ang
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | DESENHOS",Avatar Ang
 http://24hrs.homelinux.com:8080/24H-avataralendadeaang/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | Desenhos",Avatar Korra
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | DESENHOS",Avatar Korra
 http://24hrs.homelinux.com:8080/24H-avataralendadekorra/video.m3u8
 
 
