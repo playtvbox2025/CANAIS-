@@ -595,7 +595,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078
 #EXTINF:-1 tvg-logo="https://imgur.com/2qWdToI.png" group-title="Canais | REALITY",SONY ONE SHARK TANK
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/20/3b/1f/MEVNVG5_t.png" group-title="Canais | FILMES",URBAN MOVIES
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/20/3b/1f/MEVNVG5_t.png" group-title="24hrs | FILMES",URBAN MOVIES
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 
 
@@ -607,22 +607,22 @@ http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/a/gusOwlz.png" group-title="Canais | FILMES E SERIES",SONY CHANNEL
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/ahGou5L.png" group-title="Canais | FILMES",FREE TV CRIME
+#EXTINF:-1 tvg-logo="https://imgur.com/ahGou5L.png" group-title="24hrs | FILMES",FREE TV CRIME
 https://oly-ftvcbr.otteravision.com/oly/ftvcbr/ftvcbr.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/vLrDg9k.png" group-title="Canais | FILMES",FREE TV DRAMA
+#EXTINF:-1 tvg-logo="https://imgur.com/vLrDg9k.png" group-title="24hrs | FILMES",FREE TV DRAMA
 https://oly-ftvdrbr.otteravision.com/oly/ftvdrbr/ftvdrbr.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Qz04U52.png" group-title="Canais | FILMES",SO PLAY MOVIES
+#EXTINF:-1 tvg-logo="https://imgur.com/Qz04U52.png" group-title="24hrs | FILMES",SO PLAY MOVIES
 https://origin-nxtv.b-cdn.net/SOPLAY_MOVIES/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/OsGti81.png" group-title="Canais | FILMES",FILMELIER TV PAIXAO
+#EXTINF:-1 tvg-logo="https://imgur.com/OsGti81.png" group-title="24hrs | FILMES",FILMELIER TV PAIXAO
 https://amg00740-sofa-amg00740c17-tcl-us-8638.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/gJb0Nz4.png" group-title="Canais | FILMES",FILMELIER TV VIDA REAL
+#EXTINF:-1 tvg-logo="https://imgur.com/gJb0Nz4.png" group-title="24hrs | FILMES",FILMELIER TV VIDA REAL
 https://amg00740-sofa-amg00740c16-tcl-us-8738.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/JwdK85f.png" group-title="Canais | FILMES",FILMELIER TV ESPERANCA
+#EXTINF:-1 tvg-logo="https://imgur.com/JwdK85f.png" group-title="24hrs | FILMES",FILMELIER TV ESPERANCA
 https://amg00740-sofa-amg00740c13-tcl-us-8730.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE 
@@ -636,7 +636,7 @@ http://cdn.bomberstream.xyz/huan/tnthd/chunks.m3u8
 #EXTINF:-1 tvg-id="TNT SÉRIES" tvg-name="TNT SÉRIES" tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Canais | FILMES E SERIES",TNT Séries 
 http://187.120.222.12:8000/play/TNTSeriesLEG/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIKlZkEmwtVp2s9gx_W4JBuB2qILxfoucd5sodhrZxKA&s" group-title="Canais | FILMES",Sato+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIKlZkEmwtVp2s9gx_W4JBuB2qILxfoucd5sodhrZxKA&s" group-title="24hrs | FILMES",Sato+
 https://sto-sat-samsung.otteravision.com/sto/sat/sat.m3u8
 
 #EXTINF:-1 tvg-id="TNT SÉRIES" tvg-name="TNT SÉRIES"  tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Canais | FILMES E SERIES",TNT Séries
@@ -797,19 +797,19 @@ http://cdn.bomberstream.xyz/huan/universalchannelhd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="Canais | FILMES E SERIES",BangBang
 https://abre.ai/lSy5
 
-#EXTINF:-1 tvg-logo="https://imgur.com/92rUCKL.png" group-title="Canais | FILMES",MOVIE SPHERE
+#EXTINF:-1 tvg-logo="https://imgur.com/92rUCKL.png" group-title="24hrs | FILMES",MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8?ManoTV
 
-#EXTINF:-1 tvg-logo="https://imgur.com/CsC9aG5.png" group-title="Canais | FILMES",SONY ONE EMOCOES
+#EXTINF:-1 tvg-logo="https://imgur.com/CsC9aG5.png" group-title="24hrs | FILMES",SONY ONE EMOCOES
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8?ManoTV
 
-#EXTINF:-1 tvg-logo="https://imgur.com/9xo2bJt.png" group-title="Canais | FILMES",Sony One Classics
+#EXTINF:-1 tvg-logo="https://imgur.com/9xo2bJt.png" group-title="24hrs | FILMES",Sony One Classics
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dpat1CH.png" group-title="Canais | FILMES",Cine Monde
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dpat1CH.png" group-title="24hrs | FILMES",Cine Monde
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/x13Zoz1.png" group-title="Canais | FILMES",Dark Flix
+#EXTINF:-1 tvg-logo="https://imgur.com/x13Zoz1.png" group-title="24hrs | FILMES",Dark Flix
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Canais | SOUTH PARK",South Park: Coleção Cartman
@@ -981,7 +981,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62052d3b4eeb740007fbe1
 
 ############################################################################ Canais | AnimesS
 
-#EXTINF:-1 tvg-logo="https://imgur.com/hQA9rUw.png" group-title="Canais | AnimesS & GEEK",Jojo's Bizarre adventure
+#EXTINF:-1 tvg-logo="https://imgur.com/hQA9rUw.png" group-title="Canais | AnimesS",Jojo's Bizarre adventure
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c7982f6838ee00085f0d24/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&amp;
 
 #EXTINF:-1 tvg-id="Pluto TV Animes ação" tvg-logo="https://images.pluto.tv/channels/604b79c558393100078faeef/solidLogoPNG.png" group-title="Canais | AnimesS & GEEK"",Pluto TV Animes Ação
