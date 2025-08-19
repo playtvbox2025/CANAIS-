@@ -56,6 +56,15 @@ http://46.151.196.223:14450/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3V3GMDh.png" group-title="Canais | ESPORTES",X-Sports 
 
 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/m2OuD7o.png" group-title="Canais  | YOUTUBE SPORTS",Caze TV Não é 24h 
+https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/dTZEVnq.png" group-title="Canais  | YOUTUBE SPORTS",Canal GOAT N é 24h 
+https://ythls.armelin.one/channel/UC_oToDrJ6uca7d1dFVBmLtg.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/NM5usn9.png" group-title="Canais  | YOUTUBE SPORTS",TNT Sports N é 24h 
+https://ythls.armelin.one/channel/UCs-6sCz2LJm1PrWQN4ErsPw.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FRnE50u.png" group-title="Canais | ESPORTES",Auto TV
 https://cdn.live.br1.jmvstream.com/webtv/txsneccr/playlist/playlist.m3u8
 
