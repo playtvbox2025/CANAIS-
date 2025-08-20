@@ -1,7 +1,7 @@
 
 #EXTM3U url-tvg="http://epgpainel.ddns.net/epg.xml,https://i.mjh.nz/PlutoTV/br.xml,"
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | ABERTOS",GLOBO NORDESTE
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | ABERTOS",GLOBO NORDESTE HD
 http://testeeng.com:80/938915698/H788v6338E/538100
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | ABERTOS",Globo RJ 
 http://79.127.238.228:14217/
@@ -49,6 +49,8 @@ http://46.151.196.223:14438/
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="Canais | ESPORTES",ESPN 3 
 http://46.151.196.223:14444/
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="Canais | ESPORTES",ESPN 3 HD
+http://187.120.222.12:8000/play/ESPN3/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPORTES",ESPN 4 
 http://46.151.196.223:14450/
@@ -60,6 +62,8 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63dac28760bc8f0008a76
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | ESPORTES",Band Sports HD
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uoPNiM1.png" group-title="Canais | ESPORTES",Woohoo HD
+http://187.120.222.12:8000/play/Woohoo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3V3GMDh.png" group-title="Canais | ESPORTES",X-Sports 
 
@@ -75,6 +79,8 @@ http://200.4.96.59:8829/play/a05h/index.m3u8
 http://200.4.96.59:8829/play/a05i/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AtwQSpz.png" group-title="Canais | PPV ESPORTES",Paramount+ 3 HD
 http://200.4.96.59:8829/play/a06q/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AtwQSpz.png" group-title="Canais | PPV ESPORTES",Paramount+ 4 HD
+http://187.120.222.12:8000/play/a06q/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FRnE50u.png" group-title="Canais | ESPORTES",Auto TV
 https://cdn.live.br1.jmvstream.com/webtv/txsneccr/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/54/36/42/MEWF93W_t.png" group-title="Canais | ESPORTES",Eurosport 1
@@ -112,14 +118,13 @@ http://104.238.222.251:8989/278939_.m3u8
 
 
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes HD
-http://cdn.bomberstream.xyz:80/huan/premiereclubeshd/playlist.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTI3OTcxNjcsIm5iZiI6MTc1Mjc5NzE2NywiZXhwIjoxNzUzNjYxMTY3fQ.gJQIpoPQjgvHi8dCFYfmPQwiCm-GwsFrSjm6k6rgn7Y&player=144677886
-
+http://187.120.222.12:8000/play/PremiereClubes/index.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="Canais | ESPORTES",Premiere 2 HD
 https://cr7v.short.gy/mano2/testchamaWhats75991634025.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="Canais | ESPORTES",Premiere 2 FHD
-
+http://187.120.222.12:8000/play/PFC2/index.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 3" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="Canais | ESPORTES",Premiere 3 HD
 http://104.238.222.251:8989/278937_.m3u8
@@ -292,6 +297,8 @@ https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://i.imgur.com/Wu4ykxo.png" group-title="Canais | NOTÍCIAS",Globo News HD
 http://79.127.238.228:14093/
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://i.imgur.com/Wu4ykxo.png" group-title="Canais | NOTÍCIAS",Globo News 
+http://187.120.222.12:8000/play/GloboNews/index.m3u8
 
 #EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BANDNEWS" tvg-logo="https://i.imgur.com/jCZzNjF.png" group-title="Canais | NOTÍCIAS",Band News HD
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/21
@@ -405,7 +412,7 @@ http://15.235.50.112:14112/
 #EXTINF:-1 tvg-id="Discovery channel" tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/dgGgYjc.png" group-title="Canais | VARIEDADES",Discovery Channel FHD
 
 #EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://i.imgur.com/1Hm6dQU.png" group-title="Canais | VARIEDADES",Discovery Science HD 
-
+http://187.120.222.12:8000/play/DiscoveryScience/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NUFWsJ0.png" group-title="Canais | VARIEDADES",Discovery Theater HD
 
 #EXTINF:-1 tvg-id="Discovery theater" tvg-name="Discovery Theater" tvg-logo="https://i.imgur.com/NUFWsJ0.png" group-title="Canais | VARIEDADES",Discovery Theater FHD
@@ -425,10 +432,12 @@ http://200.4.96.59:8829/play/a06k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dT19vNc.png" group-title="Canais | VARIEDADES",HGTV 
 http://15.235.11.7:14144
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://i.imgur.com/dT19vNc.png" group-title="Canais | VARIEDADES",HGTV FHD
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://i.imgur.com/dT19vNc.png" group-title="Canais | VARIEDADES",HGTV HD
+http://187.120.222.12:8000/play/HGTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t97qwNh.png" group-title="Canais | VARIEDADES",Animal Planet 
 http://200.4.96.59:8829/play/a09k/index.m3u8
+
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://i.imgur.com/t97qwNh.png" group-title="Canais | VARIEDADES",Animal Planet HD
 
 
@@ -579,6 +588,9 @@ http://cdn.bomberstream.xyz/huan/tnthd/chunks.m3u8
 #EXTINF:-1 tvg-id="TNT SÉRIES" tvg-name="TNT SÉRIES" tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Canais | FILMES E SERIES",TNT Séries 
 http://187.120.222.12:8000/play/TNTSeriesLEG/index.m3u8
 
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://imgur.com/IwpJInV.png" group-title="Canais | FILMES E SERIES",TCM 
+http://187.120.222.12:8000/play/TCM/index.m3u8
+
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIKlZkEmwtVp2s9gx_W4JBuB2qILxfoucd5sodhrZxKA&s" group-title="24hrs | FILMES",Sato+
 https://sto-sat-samsung.otteravision.com/sto/sat/sat.m3u8
 
@@ -675,6 +687,8 @@ http://cdn.bomberstream.xyz/huan/lifetimehd/chunks.m3u8
 
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title="Canais | FILMES E SERIES",MEGAPIX 
 http://187.120.222.12:8000/play/MegapixLEG/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title="Canais | FILMES E SERIES",MEGAPIX HD²
 
