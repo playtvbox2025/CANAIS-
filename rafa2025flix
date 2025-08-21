@@ -325,7 +325,6 @@ http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 http://15.235.11.7:14146/MultiShowSD
 
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://i.imgur.com/a4lEiwk.png" group-title="Canais | VARIEDADES",Multishow HD
-http://cdn.bomberstream.xyz/huan/multishowhd/chunks.m3u8
 
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://i.imgur.com/WTCdLuw.png" group-title="Canais | VARIEDADES",MTV HD
 http://15.235.11.7:14149
