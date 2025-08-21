@@ -1272,44 +1272,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png" group-title="24hrs | SÉRIES",The Pet Collective
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="24hrs | SÉRIES",Drake e Josh
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="24hrs | SÉRIES",Friends
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="24hrs | SÉRIES",Um Maluco no Pedaço 24h
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="24hrs | SÉRIES",Os Trapalhões 24h
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="24hrs | SÉRIES",João Cleber
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="24hrs | SÉRIES",2 Homens e Meio 24h
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="24hrs | SÉRIES",2 Homens e Meio 2
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="24hrs | SÉRIES",Todo Mundo Odeia O Cris 24h
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="24hrs | SÉRIES",Pegadinhas Silvio Santos 24h
- 
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="24hrs | SÉRIES",As Visões da Raven 24h
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="24hrs | SÉRIES",A Grande Família 24h
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="24hrs | SÉRIES",Escolinha Raimundo 24h
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="24hrs | SÉRIES",Escolinha Raimundo 2
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="24hrs | SÉRIES",Eu a Patroa e as Crianças 24h
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="24hrs | SÉRIES",Eu a Patroa e as Crianças 2
 
 
 
