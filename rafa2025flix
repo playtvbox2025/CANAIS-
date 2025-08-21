@@ -1287,10 +1287,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="24hrs | SÉRIES",2 Homens e Meio 24h
-http://24hrs.homelinux.com:8080/24H-2HomensEmeio/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="24hrs | SÉRIES",2 Homens e Meio 2
-http://15.235.9.200:14872/
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="24hrs | SÉRIES",Todo Mundo Odeia O Cris 24h
 
@@ -1308,12 +1306,12 @@ http://15.235.9.200:14872/
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="24hrs | SÉRIES",Escolinha Raimundo 2
-http://15.235.9.200:14904/
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="24hrs | SÉRIES",Eu a Patroa e as Crianças 24h
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="24hrs | SÉRIES",Eu a Patroa e as Crianças 2
-http://15.235.9.200:14908/
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="24hrs | SÉRIES",Tô d Graça 24h
 
