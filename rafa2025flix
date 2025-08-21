@@ -1094,6 +1094,7 @@ https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="png" group-title="Canais | INFANTIL",Nick jr. HD
 http://200.4.96.59:8829/play/a09m/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vYFZ98f.png" group-title="Canais | INFANTIL",Nickelodeon HD
 http://200.4.96.59:8829/play/a09l/index.m3u8
 
@@ -1112,7 +1113,7 @@ http://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 ################################################################################# Canais INFANTIL 24h
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | DESENHOS",Chapolin Colorado 
-http://15.235.9.200:14844/
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | DESENHOS",Chapolin Colorado 24h
 
@@ -1142,7 +1143,7 @@ http://15.235.9.200:14823/
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | DESENHOS",Ben 10 
-http://15.235.9.200:14819/
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24hrs | DESENHOS",Poderoso Chefinho 24h
 
