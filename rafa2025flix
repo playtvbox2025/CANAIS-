@@ -1,5 +1,5 @@
   
-#EXTM3U url-tvg="http://epgpainel.ddns.net/epg.xml,https://i.mjh.nz/PlutoTV/br.xml,"
+#EXTM3U url-tvg="http://epgpainel.ddns.net/epg.xml,https://i.mjh.nz/PlutoTV/br.xml,https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | ABERTOS",GLOBO NORDESTE HD
 http://testeeng.com:80/938915698/H788v6338E/538100
