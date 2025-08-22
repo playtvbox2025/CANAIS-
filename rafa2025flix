@@ -1,6 +1,37 @@
-#EXTINF:-1 tvg-id="br#bandsports-hd" tvg-name="• Band Sports H265" tvg-logo="http://i.ibb.co/XxxjB7Cf/h-265-297x300.png" group-title="⚡CANAIS | 4K",• Band Sports H265
-http://cdn.v766.site:80/1682587172/5286302592/1030275
-
+#EXTINF:-1 tvg-id="" tvg-name="• HBO Family H265" tvg-logo="http://i.ibb.co/XxxjB7Cf/h-265-297x300.png" group-title="⚡CANAIS | 4K",• HBO Family H265
+http://cdn.v766.site:80/1682587172/5286302592/1030304
+#EXTINF:-1 tvg-id="" tvg-name="• HBO H265" tvg-logo="http://i.ibb.co/XxxjB7Cf/h-265-297x300.png" group-title="⚡CANAIS | 4K",• HBO H265
+http://cdn.v766.site:80/1682587172/5286302592/1030305
+#EXTINF:-1 tvg-id="HBOMundi.br" tvg-name="• HBO Mundi H265" tvg-logo="http://i.ibb.co/XxxjB7Cf/h-265-297x300.png" group-title="⚡CANAIS | 4K",• HBO Mundi H265
+http://cdn.v766.site:80/1682587172/5286302592/1030306
+#EXTINF:-1 tvg-id="HBOPlus.br" tvg-name="• HBO Plus H265" tvg-logo="http://i.ibb.co/XxxjB7Cf/h-265-297x300.png" group-title="⚡CANAIS | 4K",• HBO Plus H265
+http://cdn.v766.site:80/1682587172/5286302592/1030307
+#EXTINF:-1 tvg-id="HBOPop.br" tvg-name="• HBO Pop H265" tvg-logo="http://i.ibb.co/XxxjB7Cf/h-265-297x300.png" group-title="⚡CANAIS | 4K",• HBO Pop H265
+http://cdn.v766.site:80/1682587172/5286302592/1030308
+#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="• HBO Signature H265" tvg-logo="http://i.ibb.co/XxxjB7Cf/h-265-297x300.png" group-title="⚡CANAIS | 4K",• HBO Signature H265
+http://cdn.v766.site:80/1682587172/5286302592/1030309
+#EXTINF:-1 tvg-id="" tvg-name="• HBO Xtreme H265" tvg-logo="http://i.ibb.co/XxxjB7Cf/h-265-297x300.png" group-title="⚡CANAIS | 4K",• HBO Xtreme H265
+http://cdn.v766.site:80/1682587172/5286302592/1030310
+#EXTINF:-1 tvg-id="" tvg-name="• HGTV H265" tvg-logo="http://i.ibb.co/XxxjB7Cf/h-265-297x300.png" group-title="⚡CANAIS | 4K",• HGTV H265
+http://cdn.v766.site:80/1682587172/5286302592/1030311
+#EXTINF:-1 tvg-id="History.br" tvg-name="• History 2 H265" tvg-logo="http://i.ibb.co/XxxjB7Cf/h-265-297x300.png" group-title="⚡CANAIS | 4K",• History 2 H265
+http://cdn.v766.site:80/1682587172/5286302592/1030312
+#EXTINF:-1 tvg-id="History.br" tvg-name="• History H265" tvg-logo="http://i.ibb.co/XxxjB7Cf/h-265-297x300.png" group-title="⚡CANAIS | 4K",• History H265
+http://cdn.v766.site:80/1682587172/5286302592/1030313
+#EXTINF:-1 tvg-id="" tvg-name="• MTV 00s H265" tvg-logo="http://i.ibb.co/XxxjB7Cf/h-265-297x300.png" group-title="⚡CANAIS | 4K",• MTV 00s H265
+http://cdn.v766.site:80/1682587172/5286302592/1030314
+#EXTINF:-1 tvg-id="br#megapix-hd" tvg-name="• Megapix H265" tvg-logo="http://i.ibb.co/XxxjB7Cf/h-265-297x300.png" group-title="⚡CANAIS | 4K",• Megapix H265
+http://cdn.v766.site:80/1682587172/5286302592/1030315
+#EXTINF:-1 tvg-id="" tvg-name="• Modo Viagem H265" tvg-logo="http://i.ibb.co/XxxjB7Cf/h-265-297x300.png" group-title="⚡CANAIS | 4K",• Modo Viagem H265
+http://cdn.v766.site:80/1682587172/5286302592/1030316
+#EXTINF:-1 tvg-id="br#multishow-hd" tvg-name="• Multishow H265" tvg-logo="http://i.ibb.co/XxxjB7Cf/h-265-297x300.png" group-title="⚡CANAIS | 4K",• Multishow H265
+http://cdn.v766.site:80/1682587172/5286302592/1030317
+#EXTINF:-1 tvg-id="" tvg-name="• National Geographic H265" tvg-logo="http://i.ibb.co/XxxjB7Cf/h-265-297x300.png" group-title="⚡CANAIS | 4K",• National Geographic H265
+http://cdn.v766.site:80/1682587172/5286302592/1030318
+#EXTINF:-1 tvg-id="" tvg-name="• Nick H265" tvg-logo="http://i.ibb.co/XxxjB7Cf/h-265-297x300.png" group-title="⚡CANAIS | 4K",• Nick H265
+http://cdn.v766.site:80/1682587172/5286302592/1030319
+#EXTINF:-1 tvg-id="" tvg-name="• OFF H265" tvg-logo="http://i.ibb.co/XxxjB7Cf/h-265-297x300.png" group-title="⚡CANAIS | 4K",• OFF H265
+http://cdn.v766.site:80/1682587172/5286302592/1030320
 
 #EXTM3U url-tvg="http://epgpainel.ddns.net/epg.xml,https://i.mjh.nz/PlutoTV/br.xml,https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
 
