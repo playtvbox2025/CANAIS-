@@ -1,4 +1,7 @@
-  
+#EXTINF:-1 tvg-id="br#bandsports-hd" tvg-name="• Band Sports H265" tvg-logo="http://i.ibb.co/XxxjB7Cf/h-265-297x300.png" group-title="⚡CANAIS | 4K",• Band Sports H265
+http://cdn.v766.site:80/1682587172/5286302592/1030275
+
+
 #EXTM3U url-tvg="http://epgpainel.ddns.net/epg.xml,https://i.mjh.nz/PlutoTV/br.xml,https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | ABERTOS",GLOBO NORDESTE HD
