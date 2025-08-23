@@ -307,6 +307,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431&avod=1&coppa=0&is_lat
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="Canais | NOTÍCIAS",Pluto TV Record News 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+
+#EXTINF:-1 tvg-id="PlayTv.br", tvg-logo="https://imgur.com/lPslarc.png", group-title="Canais | VARIEDADES", Playtv
+https://isaocorp.cloudecast.com/playtv/index.fmp4.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/Y8zuwKB.png" group-title="Canais | VARIEDADES",OFF HD
 http://200.4.96.59:8829/play/a06a/index.m3u8
 #EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Sabor_arte_Logo.png" group-title="Canais | VARIEDADES", Sabor & Arte HD
