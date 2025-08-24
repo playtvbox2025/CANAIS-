@@ -1,30 +1,28 @@
 
 #EXTM3U url-tvg="http://epgpainel.ddns.net/epg.xml,https://i.mjh.nz/PlutoTV/br.xml,https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | ABERTOS",GLOBO NORDESTE HD
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | ABERTOS",Globo Nordeste HD
 http://testeeng.com:80/938915698/H788v6338E/538100
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | ABERTOS",Globo RJ HD 
 http://79.127.238.228:14217/
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | ABERTOS",Globo SP HD
 http://79.127.238.228:14211/
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | ABERTOS",RecordTV HD
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | ABERTOS",Record 4k
 http://200.4.96.59:8829/play/a03d/index.m3u8
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND"  tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | ABERTOS",Band SP HD
 http://187.120.222.12:8000/play/a06i/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g47oQ4n.png" group-title="Canais | ABERTOS",+SBT HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g47oQ4n.png" group-title="Canais | ABERTOS",SBT HD
 http://187.120.222.12:8000/play/a06f/index.m3u8
-#EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!" tvg-logo="https://i.imgur.com/EgKx2J1.png" group-title="Canais | ABERTOS",RedeTV HD
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!" tvg-logo="https://i.imgur.com/EgKx2J1.png" group-title="Canais | ABERTOS",Redetv.br
 http://200.4.96.59:8829/play/a03c/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="Canais | ABERTOS",TV BRASIL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="Canais | ABERTOS",TV Brasil HD
 https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="Canais | ABERTOS",TV Cultura Brasil HD
+#EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="Canais | ABERTOS",TV Cultura 
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NY4GvIC.png" group-title="Canais | ABERTOS",AgroMais HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NY4GvIC.png" group-title="Canais | ABERTOS",São Paulo/SP Agro Mais HD
 http://200.4.96.59:8829/play/a08t/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="Canais | ABERTOS",Canção Nova HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="Canais | ABERTOS",CancaoNova.br 
 http://200.4.96.59:8829/play/a08u/index.m3u8
-#EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/wKpiAOj.png" group-title="Canais | ABERTOS",Cultura HD
-http://200.4.96.59:8829/play/a08w/index.m3u8
 #EXTINF:- 1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV HD
 http://testeeng.com:80/938915698/H788v6338E/284576
 
