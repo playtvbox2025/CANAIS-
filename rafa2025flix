@@ -678,8 +678,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5442
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/15
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/9X7XBlD.png" group-title="Canais | INFANTIL",Fox Kids
 https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/hrBA4dU.png" group-title="Canais | INFANTIL",Universo Kids
-https://srv3.zcast.com.br/universo3/universo3/playlist_w554522056.m3u8
 #EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7856d68f41f8f261c2cdeca2b92dce7b.webp" group-title="Canais | INFANTIL",Jetsons TV
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="png" group-title="Canais | INFANTIL",Nick jr. HD
