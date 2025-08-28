@@ -1,5 +1,7 @@
 
 #EXTM3U url-tvg="http://epgpainel.ddns.net/epg.xml,https://i.mjh.nz/PlutoTV/br.xml,https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
+#EXTINF:-1 tvg-id="Estrela da Casa" tvg-name="Estrela da Casa" tvg-logo="https://imgur.com/dKPDJ2K.png" group-title="Canais | reality",Estrela da Casa 
+https://cr7v.short.gy/mano4/testchamaWhats75991634025.m3u8
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | ABERTOS",Globo Nordeste SD
 http://testeeng.com:80/938915698/H788v6338E/538100
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | ABERTOS",Globo Nordeste HD
@@ -24,8 +26,10 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 http://200.4.96.59:8829/play/a08t/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="Canais | ABERTOS",CancaoNova.br 
 http://200.4.96.59:8829/play/a08u/index.m3u8
+#EXTINF:- 1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV
+https://cr7v.short.gy/manoiTVOP3/sptvxtra2/75991634025/index.m3u8
 #EXTINF:- 1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV SD
-http://testeeng.com:80/938915698/H788v6338E/284576
+https://cr7v.short.gy/manoiTVOP1/sptv1/75991634025/index.m3u8
 #EXTINF:- 1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV HD
 https://flayto.click/live/3588551910/88551910/925073.m3u
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | ESPORTES",SporTV 2 SD
@@ -38,8 +42,10 @@ http://104.238.222.251:8989/278944_.m3u8
 https://flayto.click/live/3588551910/88551910/900510.m3u
 #EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title= "Canais | ESPORTES",SporTV 3 FHD
 http://200.4.96.59:8829/play/a05s/index.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPORTES",ESPN
+https://cr7v.short.gy/live25/spn/Index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPORTES",ESPN SD
-http://testeeng.com:80/938915698/H788v6338E/21315
+https://cr7v.short.gy/manoiTVOP2/spnHD²/Index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPORTES",ESPN HD
 https://flayto.click/live/3588551910/88551910/967440.m3u
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPORTES",ESPN 2 SD
@@ -114,6 +120,16 @@ http://104.238.222.251:8989/278937_.m3u8
 http://104.238.222.251:8989/278936_.m3u8
 #EXTINF:-1 tvg-id="PREMIERE5" tvg-name="PREMIERE5" tvg-logo="https://i.imgur.com/qVVCNKG.png" group-title="Canais | ESPORTES",Premiere 5 HD 
 http://104.238.222.251:8989/278935_.m3u8?ppv5
+#EXTINF:-1 tvg-id="PREMIERE 6 HD" tvg-name="PREMIERE 6 HD" tvg-logo="https://i.imgur.com/4CAJWni.png" group-title="Canais | PREMIERE",Premiere 6 HD
+http://46.151.194.72:80/live/861296629/K376B5181g/516.m3u8
+#EXTINF:-1 tvg-id="PREMIERE 6 HD" tvg-name="PREMIERE 6 HD" tvg-logo="https://i.imgur.com/4CAJWni.png" group-title="Canais | PREMIERE",Premiere 6 FHD
+http://45.93.9.150/pre6/index.m3u8
+#EXTINF:-1 tvg-id="PREMIERE 7 HD" tvg-name="PREMIERE 7 HD" tvg-logo="https://i.imgur.com/XqTjkAw.png" group-title="Canais | PREMIERE",Premiere 7 HD
+http://46.151.194.72:80/live/861296629/K376B5181g/519.m3u8
+#EXTINF:-1 tvg-id="PREMIERE 7 HD" tvg-name="PREMIERE 7 HD" tvg-logo="https://i.imgur.com/XqTjkAw.png" group-title="Canais | PREMIERE",Premiere 7 FHD
+http://45.93.9.150/pre7/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3V3GMDh.png" group-title="Canais | ESPORTES",X Sports 
+https://cr7v.short.gy/manoitv/X-Sports/Index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="Canais | ESPORTES",CazéTV HD
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/720p-vtt/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="Canais | ESPORTES",CazéTV FHD
