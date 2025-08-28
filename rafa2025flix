@@ -388,7 +388,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/20/3b/1f/MEVNVG5_t.png" group-title="24hrs | FILMES",URBAN MOVIES
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/gusOwlz.png" group-title="Canais | FILMES E SERIES",Sony.br
+#EXTINF:-1 tvg-logo="https://imgur.com/E2JJClM.png" group-title="Canais | FILMES E SERIES",Sony.br
 https://flayto.click/live/3588551910/88551910/1210.m3u
 #EXTINF:-1 tvg-logo="https://imgur.com/ahGou5L.png" group-title="24hrs | FILMES",FREE TV CRIME
 https://oly-ftvcbr.otteravision.com/oly/ftvcbr/ftvcbr.m3u8
