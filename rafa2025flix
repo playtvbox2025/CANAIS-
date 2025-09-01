@@ -1,7 +1,5 @@
 
 #EXTM3U url-tvg="http://epgpainel.ddns.net/epg.xml,https://i.mjh.nz/PlutoTV/br.xml,https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
-#EXTINF:-1 tvg-id="Estrela da Casa" tvg-name="Estrela da Casa" tvg-logo="https://imgur.com/dKPDJ2K.png" group-title="Canais | reality",Estrela da Casa 
-https://cr7v.short.gy/mano4/testchamaWhats75991634025.m3u8
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | ABERTOS",Globo Nordeste SD
 http://testeeng.com:80/938915698/H788v6338E/538100
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | ABERTOS",Globo Nordeste HD
