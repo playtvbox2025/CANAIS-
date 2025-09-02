@@ -492,16 +492,22 @@ https://flayto.click/live/3588551910/88551910/1184.m3u
 https://flayto.click/live/3588551910/88551910/611.m3u
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais | FILMES E SERIES",Studio Universal HD
 http://200.4.96.59:8829/play/a083/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24hrs | FILMES",BangBang
-https://abre.ai/lSy5
-#EXTINF:-1 tvg-logo="https://imgur.com/92rUCKL.png" group-title="24hrs | FILMES",MOVIE SPHERE
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8?ManoTV
-#EXTINF:-1 tvg-logo="https://imgur.com/CsC9aG5.png" group-title="24hrs | FILMES",SONY ONE EMOCOES
-https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8?ManoTV
-#EXTINF:-1 tvg-logo="https://imgur.com/9xo2bJt.png" group-title="24hrs | FILMES",Sony One Classics
-https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dpat1CH.png" group-title="24hrs | FILMES",Cine Monde
-https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/20/3b/1f/MEVNVG5_t.png" group-title="24hrs | FILMES",URBAN MOVIES
+http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/E2JJClM.png" group-title="Canais | FILMES E SERIES",Sony.br
+https://flayto.click/live/3588551910/88551910/1210.m3u
+#EXTINF:-1 tvg-logo="https://imgur.com/ahGou5L.png" group-title="24hrs | FILMES",FREE TV CRIME
+https://oly-ftvcbr.otteravision.com/oly/ftvcbr/ftvcbr.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/vLrDg9k.png" group-title="24hrs | FILMES",FREE TV DRAMA
+https://oly-ftvdrbr.otteravision.com/oly/ftvdrbr/ftvdrbr.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Qz04U52.png" group-title="24hrs | FILMES",SO PLAY MOVIES
+https://origin-nxtv.b-cdn.net/SOPLAY_MOVIES/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/OsGti81.png" group-title="24hrs | FILMES",FILMELIER TV PAIXAO
+https://amg00740-sofa-amg00740c17-tcl-us-8638.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/gJb0Nz4.png" group-title="24hrs | FILMES",FILMELIER TV VIDA REAL
+https://amg00740-sofa-amg00740c16-tcl-us-8738.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/JwdK85f.png" group-title="24hrs | FILMES",FILMELIER TV ESPERANCA
+https://amg00740-sofa-amg00740c13-tcl-us-8730.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="24hrs | DESENHOS",South Park: Coleção Cartman
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65df71008b24c80008f04281/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&amp;
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="24hrs | DESENHOS",South Park: Coleção Kenny
